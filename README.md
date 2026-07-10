@@ -39,6 +39,6 @@ This project aims to:
 
 ## 👩‍💻 Developed by
 
-**Avika Bhardwaj**  
-July 2025  
-Linkedin - www.linkedin.com/in/avika-bhardwaj-712117274
+**Kondala Kumaraswamy**  
+April 2026  
+Linkedin - https://www.linkedin.com/in/kumaraswamy-kondala
