@@ -1,4 +1,4 @@
-                                                  CRIME DATA ANALYSIS AND INSIGHTS
+                                            CRIME DATA ANALYSIS AND INSIGHTS
 
 A data analysis and visualization project focused on understanding crime patterns and trends using real-world crime data. 
 This project uses **Power BI** for interactive dashboarding and **Python (Colab)** for exploratory data analysis (EDA).
