@@ -5,7 +5,7 @@ This project uses **Power BI** for interactive dashboarding and **Python (Colab)
 
 ## 📊 Dashboard Overview
 
-<img width="1522" height="853" alt="{EDA53190-C53B-4524-9F70-8CA0B0539BEA}" src="https://github.com/user-attachments/assets/8db7a1fc-832a-4ade-93e0-e835a10c352b" />
+<img width="1522" height="853" alt="{EDA53190-C53B-4524-9F70-8CA0B0539BEA}" src="https://github.com/kumaraswamy5364/Crime-Data-Analytics-and-Insights-Project-/blob/3694eda2a0e45bce44248fa2141c76a3920e3aab/Screenshot%202026-07-10%20114006.png" />
 
 
 The Power BI dashboard includes:
